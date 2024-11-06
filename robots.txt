@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyexuuzi.github.io/VGq/sitemap_index.txt
+Sitemap: https://iyexuuzi.github.io/dab/sitemap_index.txt
+Sitemap: https://iyexuuzi.github.io/kbF/sitemap_index.txt
+Sitemap: https://iyexuuzi.github.io/mQd/sitemap_index.txt
